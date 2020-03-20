@@ -1,6 +1,9 @@
 # SFDC Platform Events using AWS Lambda
 Content linked to presentation "Go Serverless with Salesforce Platform Events using AWS Lambda" first presented at London's calling in March 2020.
 
+![Image of AWS Solution 1](https://i.imgur.com/rVL0Is5.png)
+
+
 ## Data Process:
 1. Records changes in Salesforce
 2. Event is being published to Platform Event or CDC topic
