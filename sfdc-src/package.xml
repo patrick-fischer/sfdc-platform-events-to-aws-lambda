@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AWS</fullName>
+    <types>
+        <members>recordChangePageRefresh</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Lambda_Event__e.Message__c</members>
+        <members>Lambda_Event__e.Operation__c</members>
+        <members>Lambda_Event__e.Record_Id__c</members>
+        <members>Lead.Language_Accuracy__c</members>
+        <members>Lead.Language__c</members>
+        <members>Lead.Response__c</members>
+        <members>Lead.Sentiment__c</members>
+        <members>Lead_Entity__c.Accuracy__c</members>
+        <members>Lead_Entity__c.Lead__c</members>
+        <members>Lead_Entity__c.Text__c</members>
+        <members>Lead_Entity__c.Type__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Lambda_Event__e</members>
+        <members>Lead_Entity__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Lead_Entity_Record_Page</members>
+        <members>Lead_Record_Page</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Lead_Handler_PB</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Lead-Lead Layout</members>
+        <members>Lead_Entity__c-Lead Entity Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>47.0</version>
+</Package>
