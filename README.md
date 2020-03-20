@@ -31,3 +31,10 @@ c) Change Data Capture (CDC)
 11. Schedule Lambda Subscriber Function every 15min
 12. Go Serverless: Subscribe to AWS SNS Topic using Lambda (review /aws-src/sfdcProcessComprehend)
 13. Lambda to handle Serverless processing
+
+
+## Further Resources
+1. AWS SDK: unofficial by Community github.com/bigassforce/aws-sdk
+2. nForce: NodeJS Library for Salesforce github.com/kevinohara80/nforce
+3. AWS for SF Integration Developers aws.amazon.com/featured-partners/Salesforce/Developers
+
