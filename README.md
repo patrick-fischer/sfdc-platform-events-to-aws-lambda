@@ -34,7 +34,7 @@ c) Change Data Capture (CDC)
 
 
 ## Further Resources
-1. AWS SDK: unofficial by Community github.com/bigassforce/aws-sdk
-2. nForce: NodeJS Library for Salesforce github.com/kevinohara80/nforce
-3. AWS for SF Integration Developers aws.amazon.com/featured-partners/Salesforce/Developers
+1. AWS SDK: unofficial by Community https://github.com/bigassforce/aws-sdk
+2. nForce: NodeJS Library for Salesforce https://github.com/kevinohara80/nforce
+3. AWS for SF Integration Developers https://aws.amazon.com/featured-partners/Salesforce/Developers
 
